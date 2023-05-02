@@ -10,7 +10,7 @@ Follow the steps below to analyze your own stock data:
 
 Before you begin, make sure you have Python installed, along with pandas, matplotlib, and seaborn libraries. You can install them using pip:
 
-```bash
+```
 pip install pandas matplotlib seaborn
 ```
 
